@@ -2,7 +2,7 @@
 	"name": "fresh-light",
 	"displayName": "Fresh Light",
 	"description": "Fresh Light color theme for VS Code",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
@@ -21,6 +21,11 @@
 	"publisher": "rahmanyerli",
 	"author": {
 		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/fresh-light"
 	},
 	"keywords": [
 		"fresh light theme",
