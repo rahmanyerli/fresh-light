@@ -1,0 +1,33 @@
+{
+	"name": "fresh-light",
+	"displayName": "Fresh Light",
+	"description": "Fresh Light color theme for VS Code",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Fresh Light",
+				"uiTheme": "vs",
+				"path": "./themes/fresh-light.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"keywords": [
+		"fresh light theme",
+		"light theme",
+		"fresh light",
+		"ra light theme",
+		"theme",
+		"light"
+	]
+}
